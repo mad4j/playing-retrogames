@@ -1,8 +1,8 @@
-# Playing Rebelstar
-How to play Rebelstar today!!
+# Playing Atic Atac
+How to play Atic Atac today!!
 
-![Loading Screen](games/rebelstar/references/Rebelstar%20-%20loading.gif)
-![In-game Screen](games/rebelstar/references/Rebelstar%20-%20in%20game.gif)
+![Loading Screen](games/aticatac/references/AticAtac%20-%20loading.gif)
+![In-game Screen](games/aticatac/references/AticAtac%20-%20in%20game.gif)
 
 ## Setup
 
@@ -15,7 +15,7 @@ Other emulators:
 * [JsSpeccy2](https://github.com/gasman/jsspeccy2)
 
 ### Download Game Roms
-The original game is available in download form [World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0004058). The 1-player mode will be sufficent, but... what about using the 2-player mode by sharing your desktop with an old friend?
+The original game is not available for download. You need to own the original cassette.
 
 ### Start the game
 * Start Speccy (usually by double-clicking its icon).
