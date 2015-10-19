@@ -89,6 +89,8 @@ the Photon does also have a small chance of destroying it.
 | Unit         | # | Morale | Stamina | Const. | Armour | Action Pts | Weapon Skill | Inventory                            |
 |--------------|---|--------|---------|--------|--------|------------|--------------|--------------------------------------|
 | Patrol Droid |   | 255    | 220     | 8      | 0      | 24         | 0            | Zeeker                               |
+| Android      | 1 | 250    | 250     | 120    | 8      | 10         | 0            | Pistol                               |
+| Sentry Droid | 1 | 250    | 250     | 120    | 8      | 10         | 0            | Pistol                               |
 | Master Droid | 1 | 250    | 250     | 120    | 8      | 10         | 0            | Pistol                               |
 
 ## References
