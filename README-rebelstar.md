@@ -35,7 +35,7 @@ base.  The aim of the Operatives is to kill all the Raiders.
 Once one of these conditions is fulfilled, the game will end as
 soon as the current turn finishes
 
-![Game Map](games/rebelstar/references/Rebelstar%20-%20game%20map.gif)
+![Game Map](games/rebelstar/references/rebel-1-map-full.png)
 
 Move your cursor/unit using the following keys:
 ```
