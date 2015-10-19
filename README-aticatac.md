@@ -35,6 +35,8 @@ The joystick is emulated using:
 * **ALT** - fire
 * **CRTL** - pick object
 
+![Game Map](games/aticatac/references/AticAtac.jpg)
+
 ## References
 * [World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0009305)
 * [Internet Archive](https://archive.org/details/zx_Atic_Atac_1983_Ultimate_Play_The_Game_a)
