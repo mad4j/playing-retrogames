@@ -22,9 +22,9 @@
 * ZONE 0
 * MYTH
 * THANATOS
-* quello dello sceriffo
-* apache
-* l'ammazza vecchiette
+* GUNFRIGHT
+* TOMAHAWK
+* STREET HASSLE
 * FIGHTING WARRIOR
 * SPY HUNTER
 * SUPER CAR
