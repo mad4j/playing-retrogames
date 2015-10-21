@@ -1,0 +1,148 @@
+## Foreword
+
+The following instructions are taken from the original "big box" release of CHAOS, source material was kindly provided by Ian Gledhill, and transcribed by Andy Herbert.
+
+### Corrections and additions
+
+Section 5,A suggests that as the universe becomes more chaotic, or lawful, then spells of the opposing alignment become less likely to cast successfully, however this is not true for the final game. It is also worth noting for new players that Magic Knife, Magic Sword, and Magic Bow give a wizard the ability to attack undead creatures.
+
+21 May 2011
+
+## INTRODUCTION
+Chaos is a game of magical combat between 2 to 8 wizards in an arena. Each takes turns to select and cast spells and move summoned creatures. The winner is the last wizard left alive, but there is a limit to the number of game turns in which to achieve victory, and the contest could be drawn. Playing time varies from five minutes (with 2 wizards) to half an hour (with 8 wizards).
+
+LOAD ""
+
+## 1: SELECTING WIZARDS
+Use numbers, letters and Y or N for Yes or No. You can have up to 8 wizards in the game, any or all of which can be computer controlled. The highest level of wizard power is 8.
+
+## 2: SELECTlNG SPELLS
+*PRESS*: 1 To examine spells (detailed below)
+         2 To select spell. Y or N for Illusion or Reality (see below).
+         3 To examine board. Cursor keys are:
+
+    Q  W  E
+    A     D
+    Z  X  C
+    
+    I gives information on a creature on the board when the cursor is over it.
+    0 To return to main menu.
+    4 Continues the game.
+
+## 3: PLACING SPELLS ON THE BOARD
+At the bottom of the screen is shown the name of the wizard, the spell to be cast, and the range from the wizard that it can be cast (going diagonally counts as 1 1/2 movement points).
+
+Use the cursor keys to select the space you want, and press S to select it. Press K to abort.
+
+## 4: MOVING CREATURES
+Press 1-8 to highlight your creatures. Using the cursor, select the creature you wish to move. Press S to select it, or I for information on it. Once selected, the screen will tell you the creature’s movement points.
+
+Move it by using the cursor keys.
+
+For flying creatures, place the cursor where you wish to move the creature to.
+
+To attack another creature, move your creature up next to it. and press the cursor key as if to move onto its square.
+
+Some creatures have ranged combat as well as direct combat (eg an elf with a bow) and after moving one (or pressing K to abort its movement), you can place the cursor on an enemy creature (within range) and fire at it.
+
+Pressing K stops a creature’s movement and can be used before or during movement.
+
+K also aborts ranged fire.
+
+Pressing 0 ends your go.
+
+## 5: MORE ABOUT SPELLS
+### A: Law and Chaos
+All spells are either Lawful, Chaotic or Neutral. This is shown on the spell menu by:
+
+    Law      ^
+    Chaos    *
+    Neutral  -
+
+Casting Chaos spells makes the universe more chaotic: Chaos spells become easier to cast and Law spells harder. The state of the universe is shown on the main menu under wizard’s name, e.g. Chaos **.
+
+### B: Reality and Illusion
+Each spell has only a specific chance of being cast successfully, ranging from 100% for a Giant Rat to 10% for a Golden Dragon. The more powerful the spell, the lower the chance. However, creature spells can automatically be cast as Illusions but may then be disbelieved, by use of a Disbelieve spell.
+
+### C: Properties of Creature Spells
+The spells on the spell menu are printed in various colours to indicate how easy they are to cast: the brighter the colour, the easier to Cast. To find out more about a particular spell press the letter of that spell or the Information key in the game which will give you the following:
+
+COMBAT: The offensive power of the creature.
+
+RANGED COMBAT AND RANGE: Some creatures have ranged combat as well as normal combat (e.g. an elf with a bow).
+
+DEFENCE: The defensive power of the creature.
+
+MOVEMENT ALLOWANCE: The number of spaces the creature can move each turn.
+
+MANOEUVRE RATING: The creature’s ability to disengage and move away from an enemy.
+
+MAGIC RESISTANCE: The creature’s ability to resist the effects of certain types of spell.
+
+CASTING CHANCE: The chance of creating the creature. Casting range is not shown for creatures since the range of all creature spells is one.
+
+*Other Characteristics*
+Some creatures have special characteristics which are printed below the creatures name:
+
+FLYING: Creatures that fly can hop over other creatures and obstacles (such as Walls).
+
+MOUNT: Wizards can ride mounts of their own creation, giving protection and easy movement.
+
+UNDEAD: These can only be attacked by other Undead, spells or wizards with magic weapons.
+
+### D: Other Spells
+(LOS) means spell needs Line Of Sight to be cast.
+
+DISBELIEVE: All wizards have this spell. If you suspect any creature to be an Illusion, then this spell will automatically succeed if you are right and fail if you are wrong. It always remains in your spell list and can be used repeatedly.
+
+LAW-1/LAW-2/CHAOS-1/CHAOS-2: These spells simply alter the balance of the universe.
+
+GOOEY BLOB (LOS): The Gooey Blob must be cast in an open space. It then spreads, engulfing enemy creatures but not affecting yours. Creatures engulfed do not die, but are trapped until the Blob holding them is killed by another creature.
+
+MAGIC FIRE (LOS): Magic Fire must be cast in an open space. It then spreads, killing enemy creatures but not harming your own.
+
+MAGIC WOOD (LOS): Up to 8 Magic Trees can spring up around you. Any wizard may enter the Trees and there is a chance of gaining extra spells from them.
+
+SHADOW WOOD (LOS): You can place up to 8 Shadow Trees provided they are placed in empty spaces, and are not next to each other or next to Magic Woods. These Trees can be selected as though a creature. They cannot move but can attack creatures next to them.
+
+MAGIC CASTLE/DARK CITADEL (LOS): These must be cast in an empty space. The wizard can enter the Castle/Citadel. They are impregnable to any attack but they don’t last forever!
+
+WALL (LOS): You can place up to 4 Walls in empty spaces. Nothing can enter or move through a Wall.
+
+MAGIC SWORD/KNIFE/BOW: These affect a wizard’s combat power: the Sword adding 4; the Knife 2; and the Bow giving a ranged combat ability. You cannot have a Sword and Knife at the same time.
+
+MAGIC ARMOUR/SHIELD: These affect a wizard’s defensive power: the Armour adding 4; and the Shield 2. You cannot possess both at the same time.
+
+SHADOW FORM: This makes a wizard semi-visible and fleet, adding 3 to defence, increasing movement to 3 and allowing the wizard to move freely without becoming engaged, but if the wizard attacks anything, these effects disappear.
+
+MAGIC WINGS: This spell transforms the wizard into a flying creature with a range of 6.
+
+MAGIC BOLT/LIGHTNING (LOS): These are both ranged physical attacks of magical origin. Lightning is shorter ranged, but more powerful.
+
+VENGEANCE/JUSTICE/DECREE/DARK POWER: For these magical attacks, pinpoint an enemy creature or wizard with the cursor and press S. If the target is a creature, it may die, depending on its Magic Resistance; if a wizard, then their creations may all vanish. Decree and Dark Power give you 3 attacks; Vengeance and Justice, 1.
+
+SUBVERSION (LOS): You must /not/ select an illusory enemy creature or a mount being ridden by a wizard for this spell. The lower the target’s Magic resistance, the better your chance of Subverting it. Once Subverted, it comes comes under your control.
+
+RAISE DEAD (LOS): You must select a dead creature for this spell. If successful, it reanimates as an Undead creature, behaving in the same way as other Undead.
+
+## CREDITS
+*Chaos* is written and programmed by SLUG  
+Cover by Julek Heller  
+Production Artwork by Brian Cumming  
+Co-ordination by Angus Ryall  
+
+**Copyright 1984 Games Workshop Ltd.** This program is sold subject to the terms of trade and the conditions of sale of the publishers, copies of which are available on request. The contents are not to be copied, hired, re-sold, publicly performed or broadcast without the publisher's written consent.
+
+Published by: Games Workshop Ltd, 27–29. Sunbeam Road, London NW10 6JP
+
+## Blurb
+
+Chaos features over 50 fully animated spells and creatures for you to summon from the depths of hell and beyond! Use them in your war with the other wizards; cast them as illusions, command their weapons, and become Lord of Creation!
+
+CHAOS features:
+
+* 1-8 player games: play as one player against up to seven computer wizards, up to 7 real players or any combination of real and computer players.
+* lllusion/reality spell casting
+* Magic weapons, Magic bolts, and Judgement spells.
+* Undead spells - can only be killed by other undead
+* Continuously animated sprite graphics
