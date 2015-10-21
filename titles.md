@@ -25,9 +25,9 @@
 * quello dello sceriffo
 * apache
 * l'ammazza vecchiette
-* quello egizio
+* FIGHTING WARRIOR
 * SPY HUNTER
 * SUPER CAR
 * XENON
-SENTINEL
+* SENTINEL
 * 
