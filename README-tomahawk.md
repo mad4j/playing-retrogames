@@ -4,8 +4,11 @@ How to play Tomahawk today!!
 ![Loading Screen](games/tomahawk/references/tomahawk-loading.gif)
 ![In-game Screen](games/tomahawk/references/tomahawk-ingame.gif)
 
+## How to Play
 
-[Play Online!!](http://torinak.com/qaop#!tomahawk)
+[Play it online!!](http://torinak.com/qaop#!tomahawk) or use Speccy.
+
+Configure **Kempstone Joystick** then use **Arrow Keys** and *ALT**.
 
 ![Controls](games/tomahawk/references/Tomahawk_ControlSummary.png)
 
