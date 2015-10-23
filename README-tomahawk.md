@@ -11,7 +11,5 @@ How to play Tomahawk today!!
 
 
 ## References
-* [World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0004058)
-* [Wikipedia](https://en.wikipedia.org/wiki/Rebelstar_(series))
-* [Speccy](http://fms.komkon.org/Speccy/)
-* [Walkthrough](https://www.youtube.com/watch?v=WVH9nUoHFXQ)
+* [World of Spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0005317)
+* [Walkthrough](https://www.youtube.com/watch?v=k6NhKnL2Llw)
