@@ -5,7 +5,9 @@ How to play Tomahawk today!!
 ![In-game Screen](games/tomahawk/references/tomahawk-ingame.gif)
 
 
-[Play Online!!](games/tomahawk/references/http://torinak.com/qaop#!tomahawk)
+[Play Online!!](http://torinak.com/qaop#!tomahawk)
+
+![Controls](games/tomahawk/references/Tomahawk_ControlSummary.png)
 
 
 ## References
