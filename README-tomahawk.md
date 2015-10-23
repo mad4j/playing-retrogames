@@ -14,7 +14,7 @@ Configure **Kempstone Joystick** then use **Arrow Keys** for movement and **ALT*
 
 ## Tips
 
-### Use of DOPPLER MODE: 
+### Use of Doppler Mode 
 
 key **C** selects between *beacon mode* (**B**), *landing pad mode* (**H**),
 *ground attack mode* (**T**) or *air-to-air mode* (**lightning symbol**) on DOPPLER/COMPASS instrument.
