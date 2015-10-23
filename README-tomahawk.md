@@ -8,7 +8,7 @@ How to play Tomahawk today!!
 
 [Play it online!!](http://torinak.com/qaop#!tomahawk) or use Speccy.
 
-Configure **Kempstone Joystick** then use **Arrow Keys** for movement and **ALT** to fire.
+Configure **Kempston Joystick** then use **Arrow Keys** for movement and **ALT** to fire.
 
 ![Controls](games/tomahawk/references/Tomahawk_ControlSummary.png)
 
